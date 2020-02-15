@@ -1,10 +1,16 @@
-##Sonic Generations - Colors Project - Game Land Demo v1.0.1
+##Sonic Generations - Colors Project - Game Land Demo v1.0.2
 
 ##Introduction:
  This Mod is port from Original Colors Stage and Combine 3 Acts into ONE Stage.
- 
+
+
+## ~~~ Updates ~~~
+
+## v1.0.2
+- Added ServerUpdate Link
+
 --------------------------------------------------
-##Updates:
+## v1.0.1
  Rebuild whole stage from "ObjectPhysics Floor" (Set.Object) to "Terrain Model" , solve a lot bugs using Object For Terrain.
   
  #~Whats New~
