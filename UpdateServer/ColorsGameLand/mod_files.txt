@@ -1,2 +1,4 @@
+add changelog.md
+rename changelog.md changelog.txt
 add mod.ini
 add readme.txt
