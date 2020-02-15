@@ -7,7 +7,7 @@
 ## ~~~ Updates ~~~
 
 ## v1.0.2
-- Added ServerUpdate Link
+- Added ServerUpdate Link (Support Both **HedgeModManage** and **SonicGMI v1.1**)
 
 --------------------------------------------------
 ## v1.0.1
